@@ -31,6 +31,9 @@ Instructions for Running the Project
 
 ## Setup
 
+### Install Node.js
+If you haven't installed Node.js, download and install it from Node.js official website.
+
 ### Clone the Repository
 ```bash
 git clone [Repository URL]
